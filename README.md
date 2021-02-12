@@ -1,7 +1,8 @@
 # United States Airports
 ![Map of United States with Airports](images/Sceenshot.JPG)
 
-Project Description: This project is about creating a web-map of the airports within the United States. Each icon represents the location of an airport and the color of that respective icon determines if it has a control tower or not. It also shows a choropleth map of how many airports are in each state. The web-map utilizes Javascript and Leaflet libraries.
+##Project Description
+This project is about creating a web-map of the airports within the United States. Each icon represents the location of an airport and the color of that respective icon determines if it has a control tower or not. It also shows a choropleth map of how many airports are in each state. The web-map utilizes Javascript and Leaflet libraries.
 
 ## Analysis
 I was most surprised to see how many airports in Alaska there were. I hadn't thought of there being so many in this part of the United States but it makes sense because airplanes are the number one mode of transportation for the people of Alaska. It also makes sense for places like Texas, Florida, and California to be among the ones with the most amount of airports. These are huge hubs for international and local flying.

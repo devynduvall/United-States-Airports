@@ -9,9 +9,13 @@ I was most surprised to see how many airports in Alaska there were. I hadn't tho
 ## Primary Functions/Libraries:
 
 Leaflet - Interactive JavaScript map library
+
 Chroma.js - Color palettes and selections
+
 JQuery - Manipulates the HTML elements
+
 Leaflet-Ruler - Allows users to find the distance between any given points on the map
+
 Font Awesome - Contains the airplane icons used in the map, as well as other icons
 
 ## Credit/Acknowledgment:

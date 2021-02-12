@@ -1,7 +1,7 @@
 # United States Airports
 ![Map of United States with Airports](images/Sceenshot.JPG)
 
-##Project Description
+## Project Description
 This project is about creating a web-map of the airports within the United States. Each icon represents the location of an airport and the color of that respective icon determines if it has a control tower or not. It also shows a choropleth map of how many airports are in each state. The web-map utilizes Javascript and Leaflet libraries.
 
 ## Analysis
